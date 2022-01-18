@@ -1,0 +1,18 @@
+//When u want to clone project
+git clone {project url}
+
+//When u want to push(UPDATE) your changes, do git status first to check status
+git status
+
+//git add . mean add everything('.' is everything)
+git add .
+git commit -m "your message"
+//git status again to check your changes
+git status
+//after commit, push your changes, usually is master or main, check your git
+git push -u origin master
+
+//When you want to fetch(check for latest code) and pull(take the latest code into your local) code
+git fetch
+git pull
+

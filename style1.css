@@ -106,13 +106,6 @@
     margin-bottom: 15px;
 }
 
-.btn{
-    background-color: #e65f78!important;
-    border: none;
-    padding: 12px 30px;
-    cursor: pointer;
-    font-size: 20px;
-}
 
 /* home layout end */
 
@@ -174,6 +167,8 @@
     font-size: 15px;
     margin-bottom: 30px;
 }
+
+
 /* about layout end */
 
 
@@ -416,4 +411,19 @@ ul{
     list-style-type: none;
     padding: 0 ;
 }
+
+.btn{
+    background-color: #e65f78!important;
+    border: none;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    color: black;
+}
+
+a.btn{
+    color: black;
+}
+
 /* universal css end */
+

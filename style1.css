@@ -196,7 +196,7 @@
 .card-body{
     padding:0;
 }
-.service-box .far{
+.service-box .far , .service-box .fas{
     font-size:50px;
     color:#e65f78;
     margin-bottom: 17px;

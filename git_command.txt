@@ -1,4 +1,4 @@
-//When u want to clone project
+git//When u want to clone project
 git clone {project url}
 
 //When u want to push(UPDATE) your changes, do git status first to check status
@@ -16,3 +16,6 @@ git push -u origin master
 git fetch
 git pull
 
+
+//open the whole file codes
+code .
